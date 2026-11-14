@@ -1,4 +1,4 @@
-# brand-mention-tracker
+# brand-mention-playbook
 
 Templates and procedures for tracking brand mentions across the web. The "3x signal" from the GEO baseline: brand mentions correlate roughly 3x stronger with AI engine citation than backlinks.
 
