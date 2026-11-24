@@ -47,7 +47,7 @@ Total ongoing time: about 90 minutes per month.
 ## Pairs with
 
 - [geo-audit-checklist](https://github.com/0xelitesystem/geo-audit-checklist): full GEO audit; this repo covers the monitoring section
-- [llms-txt-generator](https://github.com/0xelitesystem/llms-txt-generator): increase the chance you get cited (this tracks whether you do)
+- [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder): increase the chance you get cited (this tracks whether you do)
 - [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer): improve passage quality so mentions convert to citations
 - [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor): improve trust signals across the site
 
